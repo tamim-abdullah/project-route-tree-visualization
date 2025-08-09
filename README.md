@@ -1,22 +1,19 @@
-# Project Folder Structure Maker
+# Project Files Structure Visualization
 
-A modern Next.js application for creating and visualizing project folder structures with an interactive radial tree diagram.
+A simple Next.js application for creating and visualizing project route structures with an interactive radial tree diagram.
 
 ## ✨ Features
 
 - **Interactive Folder Creation**: Create folders and files with a simple click interface
-- **Nested Structure Support**: Build complex folder hierarchies with subfolders and files
+- **Nested Structure Support**: Build folder hierarchies with subfolders and files
 - **Real-time Visualization**: Watch your folder structure come to life in a beautiful radial tree diagram
-- **Inline Editing**: Edit folder and file names directly in the interface
-- **Visual Distinction**: Folders and files are clearly differentiated with colors and icons
-- **Responsive Design**: Works seamlessly across different screen sizes
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - Node.js 18+ 
-- npm or yarn
+- npm 
 
 ### Installation
 
@@ -29,8 +26,6 @@ A modern Next.js application for creating and visualizing project folder structu
 2. **Install dependencies**
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 3. **Install required packages**
